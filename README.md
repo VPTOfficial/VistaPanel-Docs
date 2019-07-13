@@ -1,5 +1,6 @@
-<h1>Documentation</h1>
-<p>It Can be Accessed from https://docs.vptofficial.me</p>
-<p>It's Closed Source. You are not allow to copy or distribute this documentation</p>
-<hr />
-Copyright 2018. All Rights Reserved. <a href="https://vpthemes.win/">VPTOfficial</a>
+# Documentation
+Our docs can be accessed via https://docs.vptofficial.me.  
+
+You are not allowed to copy or redistribute this documentation.  
+<hr>
+Copyright 2019 [VPTOfficial](https://vptofficial.me/). All Rights Reserved.
