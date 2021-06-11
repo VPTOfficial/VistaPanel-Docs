@@ -1,8 +1,8 @@
 # Documentation
-Our docs can be accessed via https://docs.vptofficial.me.  
+Our docs can be accessed via https://docs.wybenetwork.com.  
 
 You are not allowed to copy or redistribute this documentation.  
 
 <hr>
 
-Copyright 2019 [VPTOfficial](https://vptofficial.me/). All Rights Reserved.
+Copyright 2019-2021 [WybeNetwork](https://wybenetwork.com/). All Rights Reserved.
